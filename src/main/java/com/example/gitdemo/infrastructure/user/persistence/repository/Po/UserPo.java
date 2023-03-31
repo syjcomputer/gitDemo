@@ -11,4 +11,6 @@ class UserPo{
 
     String pwd;
 
+    String telephone;
+
 }
